@@ -33,6 +33,6 @@
 - Grid: https://getbootstrap.com/docs/4.0/layout/grid/
 - Mussum Ipsum (gerador de lorem ipsum do Mussum): http://mussumipsum.com/
 
-Ao terminar o teste, solicite um pull request ou mande para o e-mail: matheus@mentores.com.br.
+Ao terminar o teste, solicite um pull request ou mande para o e-mail: matheus@mentores.com.br com cópia para henrique@mentores.com.br.
 
 **Boa sorte!**
